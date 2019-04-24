@@ -196,11 +196,11 @@ The idea of Ensemble Learning is to leverage all the different features, pros an
 [Here](https://scikit-learn.org/stable/modules/ensemble.html) you get a complete overview of the best practices for ensemble learning, and [here](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0) you find an example of Random Forest with Scikit-Learn. Both links come with a bunch of useful techniques to use in practice. 
 
 ### Unsupervised Learning
-#无监督学习#
-_First look (in order):
-#视频介绍#- [Here](https://www.youtube.com/watch?v=8dqdDEyzkFA&t=14s) you have a brief introductionary video.
-#文章介绍#- [This](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03) article explains Unsupervised Learning really well.
-#博客文章#- [Here](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/) is an interesting read about the difference among Supervised Learning, Unsupervised Learning, and Reinforcement Learning.  
+#无监督学习#  
+_First look (in order):  
+#视频介绍#- [Here](https://www.youtube.com/watch?v=8dqdDEyzkFA&t=14s) you have a brief introductionary video.  
+#文章介绍#- [This](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03) article explains Unsupervised Learning really well.  
+#博客文章#- [Here](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/) is an interesting read about the difference among Supervised Learning, Unsupervised Learning, and Reinforcement Learning.    
 
 #两个重要的工具#  
 The two most important techniques here are [Association Rules Exploration](https://searchbusinessanalytics.techtarget.com/definition/association-rules-in-data-mining) and [Clustering](https://www.geeksforgeeks.org/clustering-in-machine-learning/). I provide examples and tutorials for both.  
@@ -260,7 +260,7 @@ In each section I've put content for the first time you arrive there (during the
 This is the [**Book**](https://www.deeplearningbook.org/) I refer to in each section.
 
 ### Why TensorFlow?
-#TensorFlow是Google大脑团队创建的大规模机器学习开源库，融合机器学习和深度学习（即神经网络）模型和算法，利用Python建立API，执行用C++，是主流公司应用的机器学习算法，可以通过多设备并行计算。#
+#TensorFlow是Google大脑团队创建的大规模机器学习开源库，融合机器学习和深度学习（即神经网络）模型和算法，利用Python建立API，执行用C++，是主流公司应用的机器学习算法，可以通过多设备并行计算。#  
 Created by the [Google Brain](https://ai.google/research/teams/brain) team, [TensorFlow](https://www.tensorflow.org/) is an open source library for numerical computation and large-scale machine learning. TensorFlow bundles together a slew of machine learning and deep learning (aka neural networking) models and algorithms and makes them useful by way of a common metaphor. It uses Python to provide a convenient front-end API for building applications with the framework, while executing those applications in high-performance C++.
 TensorFlow is the de-facto standard for the major industry-sized companies that need to implement Machine Learning algorithms. It is built for scaling, with really cool features to parallelize training over multiple GPU's or devices.
 
