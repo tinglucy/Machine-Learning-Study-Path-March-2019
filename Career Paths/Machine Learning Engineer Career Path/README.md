@@ -90,8 +90,13 @@ Whoever tells you that the math behind Machine Learning is hard... is not so wro
 
 With these three resources, you'll get out the most of what you really need to understand deeply.
 
+#线代课程#
 A top course about linear algebra is [here](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/).\
+
+#概率统计课程#
 Integrate with basic probabilities and statistic concepts [here](https://www.edx.org/course/introduction-to-probability-0).\
+
+#其它课程#
 The most of the remaining math you need [here](https://explained.ai/matrix-calculus/index.html#sec4.5).
 
 
@@ -116,12 +121,14 @@ If you encounter some problems, it may be because you don't have the latest vers
 ```
 
 ### Why Scikit-Learn
+#原因：最完整、成熟、成型的机器学习包，有强大、流行的数据处理模型。#
 [Scikit-Learn](https://scikit-learn.org/stable/) is one of the most complete, mature and well-documented libraries for Machine Learning tasks. It comes out-of-the-box with powerful and advanced models and offers facility functions for the data science process. 
 
 We'll learn and use other modules along the road, for a quick usage just look at their official documentation. 
 
 
 ### End-to-End Machine Learning project 
+#想对机器学习有感觉，先来下面这个经典例子感受一下。#
 For a first taste, I suggest you go through [this](https://www.kaggle.com/startupsci/titanic-data-science-solutions) Kaggle notebook, which has a classical example of an ML task. The goal is trying to predict if a Titanic passenger would have been most likely to survive or not. Many things will be unclear for now, but don't worry, they will all be explained comprehensively later. It is nice to get the picture of the "applied" project, going through the classical steps of the applied Machine Learning (problem framing, data exploration, question formulation...). 
 
 The notebook is on [Kaggle](https://www.kaggle.com/), the go-to platform for ML and general Data Science projects, which provides a lot of free datasets and offers interesting challenges and ML model experiments.
@@ -129,18 +136,25 @@ The notebook is on [Kaggle](https://www.kaggle.com/), the go-to platform for ML 
 Remember: Read it, trying to get the big picture of the process, because some details, functions and code will be clearer later.
 
 ### Linear Regression
+#线性回归是最简单的机器学习#
 This is the simplest form of Machine Learning, and the starting point for everyone interested in predicting outcomes from a dataset.
+#理论课程#
 Check [here](https://www.youtube.com/watch?v=W46UTQ_JDPk&list=PLoR5VjrKytrCv-Vxnhp5UyS1UjZsXP0Kj&index=2) the theoretical lesson from Andrew NG and then go through these examples, from the simplest to the most complex.
 [This](https://www.geeksforgeeks.org/ml-normal-equation-in-linear-regression/) is the math behind Linear Regression.
+#例子#
 - [Example 1](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-examples-linear-model-plot-ols-py)
 - [Example 2](https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/)
 - [Example 3](https://www.geeksforgeeks.org/linear-regression-python-implementation/)
 
 ### Classification
+#分类是机器学习最重要的功能#
 Classification is one of the most important ML tasks, when wanting to predict an outcome out of different possibilities. For example, given handwritten digits, classify them with the lowest error possible.
 The simplest case is binary classification (Yes or No, Survived or Not Survived), have a look [here](https://machinelearningmastery.com/make-predictions-scikit-learn/).
+#理论介绍#
 Check [here](https://towardsdatascience.com/building-a-logistic-regression-in-python-301d27367c24) for a brief explanation of the theory of logistic regression for classification, and check [here](https://www.youtube.com/watch?v=VCJdg7YBbAQ) for a deeper comprehension (using the Titanic dataset).
+#例子#
 You can use a lot of different ML models to classify things, even neural networks! For now, just take a look [here](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html), where you see an example of accuracy and recall comparison among different models.
+#分类效果评价#
 [Here](https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b) you have an article about the metrics used to **evaluate** your classifiers.
 
 ### Training models
