@@ -63,10 +63,16 @@ First, let's [install Python 3](https://realpython.com/installing-python/) on yo
 
 We are ready to start our journey! 
 
+#python指南#
 If you don't know the basics of Python, just start from [here](https://pythonprogramming.net/introduction-learn-python-3-tutorials/).\
+
+#python课程#
 Else if you know the syntax and you want to have a more solid Python background (recommended) take this Intermediate Python Course from [here](https://pythonprogramming.net/introduction-intermediate-python-tutorial/).\
+
+#python练习题#
 If you are looking for tons of exercises to get your hands dirty and get experience with Python, check [here](https://www.w3resource.com/python-exercises/) and [here](https://www.practicepython.org/).
 
+#python包Numpy#
 Once you're familiar with Python, take a look at [Numpy](https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html), an important module for math operations, that allows you to import in Python the [Tensor](https://www.kdnuggets.com/2018/05/wtf-tensor.html) data type, which is the most used in ML (especially when dealing with Neural Nets).
 A tensor [is not a matrix!](https://medium.com/@quantumsteinke/whats-the-difference-between-a-matrix-and-a-tensor-4505fbdc576c)
 This is an awesome [Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/).
